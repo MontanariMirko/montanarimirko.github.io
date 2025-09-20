@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Official support page">
+  <title>Support Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #007aff;
+    }
+    a {
+      color: #007aff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Support Page</h1>
+  <p>Welcome to the official support page.</p>
 
+  <h2>Contact</h2>
+  <p>If you need help or have any questions, please email us at: 
+    <a href="mailto:mirko.montanari@icloud.com">mirko.montanari@icloud.com</a>.
+    In the email ojbect inform me also about the App name.
+  </p>
+
+  <h2>FAQ</h2>
+  <p><strong>How do I reinstall the app?</strong><br>
+  Delete it from your device and download it again from the App Store.</p>
+
+  <p><strong>How do I report a bug?</strong><br>
+  Send us an email at 
+  <a href="mailto:mirko.montanari@icloud.com">mirko.montanari@icloud.com</a>
+  with a detailed description of the issue.</p>
+
+  <h2>Privacy Policy</h2>
+  <p>We respect your privacy. This app only collects the minimum information necessary to operate and improve its features.</p>
+  <p><strong>Data Collection:</strong> We may collect anonymous usage data to improve app performance. No personally identifiable information is stored without your consent.</p>
+  <p><strong>Data Sharing:</strong> We do not sell or share your personal information with third parties.</p>
+  <p><strong>Contact:</strong> If you have questions about this Privacy Policy, contact us at 
+    <a href="mailto:mirko.montanari@icloud.com">mirko.montanari@icloud.com</a>.
+  </p>
+</body>
+</html>
